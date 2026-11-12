@@ -1,0 +1,6 @@
+{
+  "name": "Digital Store - Drip Store",
+  "description": "E-commerce de tênis e moda urbana inspirado no Drip Store com catálogo completo, filtros, carrossel e carrinho interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
